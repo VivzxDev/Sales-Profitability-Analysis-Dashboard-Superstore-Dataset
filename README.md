@@ -32,52 +32,6 @@ Align discounts with profitability goals
 🛠️ Tools:
 Excel | Power BI
 
-🏦 Project 3 — Bank Customer Churn Analysis
-Customer Segmentation
-
-💡 “Who is leaving, and why?”
-
-🔍 What I did:
-
-Analyzed 10,000 banking customers across:
-🇫🇷 France
-🇩🇪 Germany
-🇪🇸 Spain
-
-📊 Key Insights:
-
-Overall churn rate: 20.37%
-🚨 Germany had a much higher churn rate (32%), indicating localized issues.
-
-🧩 Deep Dive Analysis:
-
-Segmented customers based on:
-Age 👤
-Credit Score 💳
-Account Balance 💰
-Product Usage 📦
-Activity Status ⚡
-
-📊 Dashboard Highlights:
-
-Built an interactive segmentation dashboard enabling:
-Real-time filtering 🔍
-Behavioral pattern analysis
-Identification of high-risk customer segments
-
-💡 Strategic Recommendations:
-
-Target high-risk segments with personalized retention strategies
-Improve engagement through cross-selling financial products
-Align product offerings with customer behavior
-
-🧠 Key Strength Demonstrated:
-
-Strong credit analytics thinking
-Linking financial behavior → churn outcomes
-
-🛠️ Tools:
-Excel | Power BI
 
 
 
